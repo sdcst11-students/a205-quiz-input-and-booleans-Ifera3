@@ -6,5 +6,5 @@ original code:
 """
 x = 3
 y = 4
-if x > y:
+if y > x:
     print("y is larger than x")
